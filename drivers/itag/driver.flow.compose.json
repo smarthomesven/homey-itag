@@ -1,0 +1,38 @@
+{
+  "triggers": [
+    {
+      "id": "device_disconnected",
+      "title": {
+        "en": "Disconnected",
+        "nl": "Verbinding verbroken"
+      }
+    },
+    {
+      "id": "device_reconnected",
+      "title": {
+        "en": "Reconnected",
+        "nl": "Opnieuw verbonden"
+      }
+    }
+  ],
+  "actions": [
+    {
+      "id": "start_ringing",
+      "title": {
+        "en": "Ring",
+        "nl": "Rinkel"
+      },
+      "hint": {
+        "en": "Ring the tag for 10 seconds",
+        "nl": "Rinkel de tag voor 10 seconden"
+      }
+    },
+    {
+      "id": "stop_ringing",
+      "title": {
+        "en": "Stop ringing",
+        "nl": "Stop met rinkelen"
+      }
+    }
+  ]
+}

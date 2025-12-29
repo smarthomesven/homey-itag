@@ -1,0 +1,36 @@
+{
+  "id": "nl.dypodex.itag",
+  "version": "1.0.0",
+  "compatibility": ">=12.4.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "iTAG"
+  },
+  "description": {
+    "en": "Finding your lost items has never been easier",
+    "nl": "Je verloren spullen zoeken was nog nooit zo makkelijk"
+  },
+  "category": [
+    "localization"
+  ],
+  "permissions": [
+    "homey:wireless:ble"
+  ],
+  "brandColor": "#000000",
+  "source": "https://github.com/smarthomesven/homey-itag",
+  "bugs": {
+    "url": "https://github.com/smarthomesven/homey-itag/issues"
+  },
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Sven Serlier",
+    "email": "sven@dypodex.com"
+  }
+}

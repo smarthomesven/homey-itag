@@ -1,0 +1,1 @@
+Use iTAG keyfinders in your smart home to find your items by ringing the finder, or use it as a presence sensor via the Disconnected and Reconnected Flow cards.

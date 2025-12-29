@@ -1,0 +1,1 @@
+Gebruik iTAG-keyfinders in je smart home om je spullen te vinden door de keyfinder te laten rinkelen, of gebruik ze als aanwezigheidssensoren met de Verbinding verbroken en Opnieuw verbonden Flow-kaarten.
