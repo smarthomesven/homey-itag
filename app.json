@@ -122,6 +122,11 @@
         "large": "/drivers/itag/assets/images/large.png",
         "xlarge": "/drivers/itag/assets/images/xlarge.png"
       },
+      "energy": {
+        "batteries": [
+          "CR2032"
+        ]
+      },
       "pair": [
         {
           "id": "list_devices",

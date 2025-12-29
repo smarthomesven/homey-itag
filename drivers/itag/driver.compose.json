@@ -19,6 +19,11 @@
     "large": "{{driverAssetsPath}}/images/large.png",
     "xlarge": "{{driverAssetsPath}}/images/xlarge.png"
   },
+  "energy": {
+    "batteries": [
+      "CR2032"
+    ]
+  },
   "pair": [
     {
       "id": "list_devices",
