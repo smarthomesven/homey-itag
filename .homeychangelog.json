@@ -4,5 +4,8 @@
   },
   "1.0.1": {
     "en": "Added battery info"
+  },
+  "1.0.2": {
+    "en": "Fixed icon and added community forum topic ID to the app manifest"
   }
 }
